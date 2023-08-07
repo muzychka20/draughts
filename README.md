@@ -4,20 +4,25 @@
 У програмі є можливість зміни кольорів клітинок шашкової дошки та зміни розмірів вікна програми. Кожен хід гравців заноситься в таблицю. Запис партії можна зберегти та переглянути після закінчення гри. Передбачено закінчення гри при натисканні на кнопки Give Up (визнання себе переможеним) та Draw (оголошення нічиєї).
 Коректність відображення можливих ходів та ударів перевірялись за допомогою стандартних комбінацій. Наприклад, турецького удару.
 
+Початкове положення:
+
+<img width="1072" alt="Снимок экрана 2023-08-07 в 14 18 53" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/e716b190-2c8d-43e2-a727-bb6063d00f85">
+
+Зміна інтефейсу:
+
+<img width="1072" alt="Снимок экрана 2023-08-07 в 14 19 33" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/b3a642ce-58b8-42cd-ad18-5193b528dc9d">
+
+Вікно налаштувань:
+
+<img width="412" alt="Снимок экрана 2023-08-07 в 14 19 09" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/cc78b0aa-653a-4f7a-b197-653764c2d420">
+
+Скріншот під час партії:
+
+<img width="1072" alt="Снимок экрана 2023-08-07 в 14 21 25" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/8da1dad7-a986-43d1-9b55-a2c9eb614833">
+
+
 Діаграма класів:
 ![2](https://github.com/KyryloMuzychka/Draughts/assets/45338510/748d254d-1a8d-40cb-bf6c-64680accc20a)
 
 Діаграма прецедентів:
 ![Без заголовка](https://github.com/KyryloMuzychka/Draughts/assets/45338510/af5612b8-c9d9-450c-b017-5a2791bd846e)
-
-Початкове положення:
-<img width="1072" alt="Снимок экрана 2023-08-07 в 14 18 53" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/e716b190-2c8d-43e2-a727-bb6063d00f85">
-
-Зміна інтефейсу:
-<img width="1072" alt="Снимок экрана 2023-08-07 в 14 19 33" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/b3a642ce-58b8-42cd-ad18-5193b528dc9d">
-
-Вікно налаштувань:
-<img width="412" alt="Снимок экрана 2023-08-07 в 14 19 09" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/cc78b0aa-653a-4f7a-b197-653764c2d420">
-
-Скріншот під час партії:
-<img width="1072" alt="Снимок экрана 2023-08-07 в 14 21 25" src="https://github.com/KyryloMuzychka/Draughts/assets/45338510/8da1dad7-a986-43d1-9b55-a2c9eb614833">
