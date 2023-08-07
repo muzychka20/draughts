@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>img/possibleMove.png</file>
+        <file>img/icon.ico</file>
+        <file>img/icon.icns</file>
+        <file>img/clear.png</file>
+        <file>img/save.png</file>
+        <file>img/whiteQueen.svg</file>
+        <file>img/blackQueen.svg</file>
+        <file>img/blackChecker.svg</file>
+        <file>img/whiteChecker.svg</file>
+    </qresource>
+</RCC>
