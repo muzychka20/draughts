@@ -208,7 +208,8 @@ void Widget::clickChangeParametersButton() {
 }
 
 void Widget::Move() {
-  QIcon markPossibleMove = QIcon(":/source/img/possibleMove.png");
+  // QIcon markPossibleMove = QIcon(":/source/img/possibleMove.png");
+  QIcon markPossibleMove = QIcon(":/source/img/possibleMove_white.png");
   if (!CheckStrike()) {
     if (CheckAllPossibleMoves()) {
       MessageOfVictory();

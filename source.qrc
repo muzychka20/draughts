@@ -9,5 +9,6 @@
         <file>img/blackQueen.svg</file>
         <file>img/blackChecker.svg</file>
         <file>img/whiteChecker.svg</file>
+        <file>img/possibleMove_white.png</file>
     </qresource>
 </RCC>
